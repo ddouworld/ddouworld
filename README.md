@@ -61,15 +61,7 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ddouworld" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
 
 
 ## Github Stats  
@@ -78,23 +70,26 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## About My Github  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddouworld&show_icons=true&theme=tokyonight"></div>
 
 <br/>  
 
   
 
-<br/>  
+
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/ddouworld" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ddouworld&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/zha2376714s" target="_blank" style="display: inline-block;">
@@ -104,6 +99,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
